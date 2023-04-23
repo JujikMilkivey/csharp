@@ -1,0 +1,15 @@
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\bin\Debug\net6.0\NewProjectForItProger.exe
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\bin\Debug\net6.0\NewProjectForItProger.deps.json
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\bin\Debug\net6.0\NewProjectForItProger.runtimeconfig.json
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\bin\Debug\net6.0\NewProjectForItProger.dll
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\bin\Debug\net6.0\NewProjectForItProger.pdb
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\obj\Debug\net6.0\NewProjectForItProger.csproj.AssemblyReference.cache
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\obj\Debug\net6.0\NewProjectForItProger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\obj\Debug\net6.0\NewProjectForItProger.AssemblyInfoInputs.cache
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\obj\Debug\net6.0\NewProjectForItProger.AssemblyInfo.cs
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\obj\Debug\net6.0\NewProjectForItProger.csproj.CoreCompileInputs.cache
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\obj\Debug\net6.0\NewProjectForItProger.dll
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\obj\Debug\net6.0\refint\NewProjectForItProger.dll
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\obj\Debug\net6.0\NewProjectForItProger.pdb
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\obj\Debug\net6.0\NewProjectForItProger.genruntimeconfig.cache
+D:\Project C#\NewProjectForItProger\NewProjectForItProger\obj\Debug\net6.0\ref\NewProjectForItProger.dll
